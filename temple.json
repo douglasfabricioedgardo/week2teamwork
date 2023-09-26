@@ -1,0 +1,25 @@
+[{
+    "_id": {
+      "$oid": "621fe1f527d68ebb24438395"
+    },
+    "professionalName": "Douglas F. Ramirez",
+    "nameLink": {
+      "firstName": "Douglas",
+      "url": "https://nathanbirch.netlify.app/"
+    },
+    "base64Image": "https://scontent.ftgu3-3.fna.fbcdn.net/v/t39.30808-6/347259300_141177055635977_3468031309349911628_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEcOAOZzI2-2s_4D1k_dIS4SWtLMdrxdVZJa0sx2vF1Vtm3dOSOeWIVQCDZCNKx7aCCYkV15UfJ1vwPYt1OkQow&_nc_ohc=3IwLyHNWaekAX-F-dxd&_nc_ht=scontent.ftgu3-3.fna&oh=00_AfDnbQ6K5VO9qg7S0Ka7fIXilyukcz9FTSiFTdTKHAJMXw&oe=6517A19D",
+    "firstName": "Douglas",
+    "primaryDescription": " is a teacher at a school",
+    "workDescription1": "He is a full-stack web developer and mobile application developer.",
+    "workDescription2": "He teaches lots of programming and web development classes.",
+    "linkTitleText": "Check out his work below",
+    "linkedInLink": {
+      "link": "https://www.linkedin.com/in/douglasfabriramirez/",
+      "text": "LinkedIn"
+    },
+    "githubLink": {
+      "link": "https://github.com/douglasfabricioedgardo",
+      "text": "GitHub"
+    },
+    "contactText": "Feel free to contact him at douglasfabricioedgardo@gmail.com if you'd like for him to work for you!"
+  }]
